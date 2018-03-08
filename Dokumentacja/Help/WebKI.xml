@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Dispose method" Url="html/5516e490-a6b4-5b4b-1441-177521f21542.htm" />
+  <HelpKINode Title="Gra namespace" Url="html/aa832346-205a-e6e2-1636-ec9736b3728e.htm" />
+  <HelpKINode Title="Gra.Puzle class" Url="html/52f9c0eb-8c83-d4cc-4c07-9215c5359f8a.htm" />
+  <HelpKINode Title="kopia field" Url="html/db709c15-5d9f-c720-20e5-c9984a462007.htm" />
+  <HelpKINode Title="listaplytek field" Url="html/a008d760-db13-1f49-f64a-de59dac06094.htm" />
+  <HelpKINode Title="listapunktow field" Url="html/67bbad54-1d40-a7de-368b-b7ac970b3fa9.htm" />
+  <HelpKINode Title="Puzle class">
+    <HelpKINode Title="Puzle Class" Url="html/52f9c0eb-8c83-d4cc-4c07-9215c5359f8a.htm" />
+    <HelpKINode Title="constructor" Url="html/afd6d05b-bbda-f56d-13cf-9a2b190d41c1.htm" />
+    <HelpKINode Title="events" Url="html/d95bc5bf-ce2e-60b9-51ba-7d4e91db9ced.htm" />
+    <HelpKINode Title="fields" Url="html/be604367-3d0e-41fd-fc40-9b4185320657.htm" />
+    <HelpKINode Title="methods" Url="html/f2e3b162-1e0c-52d3-1fcc-93c7b634790a.htm" />
+    <HelpKINode Title="properties" Url="html/f845b758-32d3-33c8-2425-a708044c5b17.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Puzle.Dispose method" Url="html/5516e490-a6b4-5b4b-1441-177521f21542.htm" />
+  <HelpKINode Title="Puzle.kopia field" Url="html/db709c15-5d9f-c720-20e5-c9984a462007.htm" />
+  <HelpKINode Title="Puzle.listaplytek field" Url="html/a008d760-db13-1f49-f64a-de59dac06094.htm" />
+  <HelpKINode Title="Puzle.listapunktow field" Url="html/67bbad54-1d40-a7de-368b-b7ac970b3fa9.htm" />
+  <HelpKINode Title="Puzle.Puzle constructor" Url="html/afd6d05b-bbda-f56d-13cf-9a2b190d41c1.htm" />
+  <HelpKINode Title="Puzle.RysujFlage method" Url="html/f204faa5-83e2-4edf-d292-f6e89e6c2567.htm" />
+  <HelpKINode Title="RysujFlage method" Url="html/f204faa5-83e2-4edf-d292-f6e89e6c2567.htm" />
+</HelpKI>

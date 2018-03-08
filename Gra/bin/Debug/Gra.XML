@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Gra</name>
+    </assembly>
+    <members>
+        <member name="F:Gra.Puzle.listapunktow">
+            <summary>
+            lista punktów z lokalizacją PictureBoxów
+            </summary>
+        </member>
+        <member name="F:Gra.Puzle.liczniktrzeciejtury">
+            <summary>
+            zmienna odpowiadająca za zliczanie pętli trzeciego etapu
+            </summary>
+        </member>
+        <member name="F:Gra.Puzle.liczbaplytek">
+            <summary>
+            licznik pictureboxów
+            </summary>
+        </member>
+        <member name="F:Gra.Puzle.tura">
+            <summary>
+            licznik tury
+            </summary>
+        </member>
+        <member name="F:Gra.Puzle.lbled">
+            <summary>
+            licznik bledów
+            </summary>
+        </member>
+        <member name="F:Gra.Puzle.listaplytek">
+            <summary>
+            Lista PictureBoxów uzywanych w grze ( bez PB flaga)
+            </summary>
+        </member>
+        <member name="F:Gra.Puzle.kopia">
+            <summary>
+            kopia listy punktow do wykonywania operacji
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.#ctor">
+            <summary>
+            Główna funkcja
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.Memorki_Click(System.Object,System.EventArgs)">
+            <summary>
+            Rozpoczyne gre od nowa
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.Plytka6_duplikat_Click(System.Object,System.EventArgs)">
+            <summary>
+            ustawia flage dla danej plytki
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.Plytka6_Click(System.Object,System.EventArgs)">
+            <summary>
+            ustawia flage dla danej plytki
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.Plytka5_duplikat_Click(System.Object,System.EventArgs)">
+            <summary>
+            ustawia flage dla danej plytki
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.Plytka5_Click(System.Object,System.EventArgs)">
+            <summary>
+            ustawia flage dla danej plytki
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.Plytka4_duplikat_Click(System.Object,System.EventArgs)">
+            <summary>
+            ustawia flage dla danej plytki
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.Plytka4_Click(System.Object,System.EventArgs)">
+            <summary>
+            ustawia flage dla danej plytki
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.Plytka3_duplikat_Click(System.Object,System.EventArgs)">
+            <summary>
+            ustawia flage dla danej plytki
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.Plytka3_Click(System.Object,System.EventArgs)">
+            <summary>
+            ustawia flage dla danej plytki
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.Plytka2_duplikat_Click(System.Object,System.EventArgs)">
+            <summary>
+            ustawia flage dla danej plytki
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.Plytka1_duplikat_Click(System.Object,System.EventArgs)">
+            <summary>
+            ustawia flage dla danej plytki
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.Plytka2_Click(System.Object,System.EventArgs)">
+            <summary>
+            ustawia flage dla danej plytki
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.Flaga_Click(System.Object,System.EventArgs)">
+             <summary>
+            ustawia flage dla danej plytki
+             </summary>
+        </member>
+        <member name="M:Gra.Puzle.RysujFlage(System.Windows.Forms.Form,System.Int32,System.Int32,System.Windows.Forms.PictureBox)">
+            <summary>
+            rysowanie flagi
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.Sprawdzanie(System.Windows.Forms.PictureBox,System.Windows.Forms.PictureBox)">
+            <summary>
+            Usuwa PictureBoxy po prawidlowym zaznaczeniu
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.LosowanieMiejsc">
+            <summary>
+            rozmieszcza pseudo-losowo Pictureboxy po planszy
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.tura2">
+            <summary>
+            wywoluje ture2
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.tura3">
+            <summary>
+            wywołuje ture 3
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.ukrywanieplytek">
+            <summary>
+            ustawia obraz znak jako picturebox
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.DodawanieFlagi(System.Windows.Forms.PictureBox)">
+            <summary>
+            kopiuje ostatnią wybraną flage
+            </summary>
+        </member>
+        <member name="F:Gra.Puzle.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Gra.Puzle.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Gra.Puzle.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Gra.Program.Main">
+            <summary>
+            Wywołuje Puzle
+            </summary>
+        </member>
+        <member name="T:Gra.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Gra.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Gra.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:Gra.Properties.Resources.cz">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Gra.Properties.Resources.no">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Gra.Properties.Resources.pl">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Gra.Properties.Resources.ru">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Gra.Properties.Resources.sg">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Gra.Properties.Resources.sv">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Gra.Properties.Resources.tlo">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Gra.Properties.Resources.us">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Gra.Properties.Resources.znak">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>

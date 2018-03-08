@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="d3a349db-0230-40b4-a63b-f0064ea8b873" Title="Gra" Url="html/aa832346-205a-e6e2-1636-ec9736b3728e.htm">
+    <HelpTOCNode Id="1e3c7d0d-5b00-4229-a690-09b3450f602c" Title="Puzle Class" Url="html/52f9c0eb-8c83-d4cc-4c07-9215c5359f8a.htm">
+      <HelpTOCNode Title="Puzle Constructor " Url="html/afd6d05b-bbda-f56d-13cf-9a2b190d41c1.htm" />
+      <HelpTOCNode Title="Puzle Properties" Url="html/f845b758-32d3-33c8-2425-a708044c5b17.htm" />
+      <HelpTOCNode Id="4ac7cbd6-4c4b-4287-9967-e30a80bae174" Title="Puzle Methods" Url="html/f2e3b162-1e0c-52d3-1fcc-93c7b634790a.htm">
+        <HelpTOCNode Id="9ab0fa27-59ca-4ca0-b525-63b81a0f50c9" Title="Dispose Method " Url="html/5516e490-a6b4-5b4b-1441-177521f21542.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/2cecb7fe-dca7-ce07-f125-82f43effd1dd.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="RysujFlage Method " Url="html/f204faa5-83e2-4edf-d292-f6e89e6c2567.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Puzle Events" Url="html/d95bc5bf-ce2e-60b9-51ba-7d4e91db9ced.htm" />
+      <HelpTOCNode Id="be131e5b-70b7-4ecd-9f33-66a661cc865d" Title="Puzle Fields" Url="html/be604367-3d0e-41fd-fc40-9b4185320657.htm">
+        <HelpTOCNode Title="kopia Field" Url="html/db709c15-5d9f-c720-20e5-c9984a462007.htm" />
+        <HelpTOCNode Title="listaplytek Field" Url="html/a008d760-db13-1f49-f64a-de59dac06094.htm" />
+        <HelpTOCNode Title="listapunktow Field" Url="html/67bbad54-1d40-a7de-368b-b7ac970b3fa9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
